@@ -1,2 +1,2 @@
 # tinyone
-header &amp; slider
+https://fazlefaaz.github.io/tinyone/
